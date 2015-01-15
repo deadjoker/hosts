@@ -1,0 +1,2 @@
+# hosts
+fight against GFW
