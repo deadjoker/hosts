@@ -160,9 +160,25 @@
 216.58.220.164  scholar.google.com
 216.58.220.164  google-analytics.com
 #Gmail
-203.208.46.181  mail.google.com
-203.208.46.181  www.gmail.com
-203.208.46.181  gmail.com
+202.152.192.181 mail.google.com
+202.152.192.181 www.gmail.com
+202.152.192.181 gmail.com
+74.125.207.109  gmail-pop.l.google.com
+74.125.69.16    pop.googlemail.com
+74.125.69.16    googlemail-pop.l.google.com
+74.125.69.109   smtp.gmail.com
+74.125.69.109   gmail-smtp-msa.l.google.com
+173.194.65.109  gmail-smtp.l.google.com
+74.125.201.27   gmail-smtp-in.l.google.com
+74.125.201.14   gmr-smtp-in.l.google.com
+74.125.69.16    smtp.googlemail.com
+74.125.69.16    googlemail-smtp.l.google.com
+74.125.193.109  imap.gmail.com
+74.125.193.108  gmail-imap.l.google.com
+74.125.69.16    imap.googlemail.com
+74.125.69.16    googlemail-imap.l.google.com
+74.125.193.108  pop.gmail.com
+
 #Blogger
 216.58.219.105  www.blogger.com
 #accounts
