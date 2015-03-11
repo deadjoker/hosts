@@ -1,5 +1,6 @@
 #Twitter START
 23.74.226.237 preview.cdn.twitter.com
+103.245.222.185 pay.twitter.com
 173.236.110.98 twitpic.com
 199.16.158.72 twitter.com www.twitter.com
 199.16.158.73 api.twitter.com
@@ -22,16 +23,18 @@
 199.16.158.84 upload.twitter.com
 199.96.57.6 platform.twitter.com cdn.api.twitter.com
 185.45.5.45 cdn.api.twitter.com
-199.96.57.7 a0.twimg.com
-199.96.57.7 abs.twimg.com
-199.96.57.7 p.twimg.com
-199.96.57.7 r.twimg.com
-199.96.57.7 si0.twimg.com
-199.96.57.7 si1.twimg.com
-199.96.57.7 si2.twimg.com
-199.96.57.7 si3.twimg.com
-199.96.57.7 si4.twimg.com
-199.96.57.7 si5.twimg.com
+192.229.237.25 a0.twimg.com
+192.229.237.25 abs.twimg.com
+192.229.237.25 pbs.twimg.com
+192.229.237.25 p.twimg.com
+192.229.237.25 r.twimg.com
+192.229.237.25 si0.twimg.com
+192.229.237.25 si1.twimg.com
+192.229.237.25 si2.twimg.com
+192.229.237.25 si3.twimg.com
+192.229.237.25 si4.twimg.com
+192.229.237.25 si5.twimg.com
+203.80.97.18 a5.twimg.com
 199.96.57.8 cdn.syndication.twitter.com
 199.16.158.113 syndication-o.twitter.com
 178.79.138.110 p.twitter.com
