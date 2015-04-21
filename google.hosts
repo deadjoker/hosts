@@ -1,12 +1,6 @@
 #Ingress
-27.100.64.242  m-dot-betaspike.appspot.com
-27.100.64.242  betaspike.appspot.com
-#202.152.192.177    m-dot-betaspike.appspot.com
-#202.152.192.177    betaspike.appspot.com
-#Appspot
-64.233.184.141  www.panoramio.com
-64.233.184.141  survey.g.doubleclick.net
-64.233.184.141  chrometophone.appspot.com
+182.239.95.98   m-dot-betaspike.appspot.com
+182.239.95.98   betaspike.appspot.com
 #Ingress with no pic
 #127.0.0.1  lh3.ggpht.com
 #127.0.0.1  lh4.ggpht.com
@@ -14,225 +8,248 @@
 #127.0.0.1  lh6.ggpht.com
 #127.0.0.1      mobilemaps.clients.google.com
 #Ingress with pic
-216.58.220.174   mobilemaps.clients.google.com
-216.58.220.161   lh3.ggpht.com
-216.58.220.161   lh4.ggpht.com
-216.58.220.161   lh5.ggpht.com
-216.58.220.161   lh6.ggpht.com
+182.239.95.98   mobilemaps.clients.google.com
+182.239.95.98   lh3.ggpht.com
+182.239.95.98   lh4.ggpht.com
+182.239.95.98   lh5.ggpht.com
+182.239.95.98   lh6.ggpht.com
 #Android
-216.58.220.174   developer.android.com
-216.58.220.174   market.android.com
-216.58.220.174   android.clients.google.com
-216.58.220.174   source.android.com
+182.239.95.98   www.android.com
+182.239.95.98   developer.android.com
+182.239.95.98   market.android.com
+182.239.95.98   source.android.com
 #.google.com
-216.58.220.174   calendar.google.com
-216.58.220.174   translate.google.com
-216.58.220.174   translate.google.com.hk
-216.58.220.174   support.google.com
-216.58.220.174   books.google.com
-216.58.220.174   news.google.com
-216.58.220.174   play.google.com
-216.58.220.174   encrypted.google.com
-216.58.220.174   apis.google.com
-216.58.220.174   chrome.google.com
-216.58.220.174   maps.google.com
-216.58.220.174   clients1.google.com
-216.58.220.174   clients2.google.com
-216.58.220.174   clients3.google.com
-216.58.220.174   clients4.google.com
-216.58.220.174   clients5.google.com
-216.58.220.174   clients6.google.com
-216.58.220.174   appengine.google.com
-216.58.220.174   docs.google.com
-216.58.220.174   video.google.com
-216.58.220.174   dl.google.com
-216.58.220.174   code.google.com
-216.58.220.174   gg.google.com
-216.58.220.174   mapsengine.google.com
-216.58.220.174   safebrowsing.google.com
-216.58.220.174   wallet.google.com
-216.58.220.174   developers.google.com
-216.58.220.174   drive.google.com
-216.58.220.174   mts0.google.com
-216.58.220.174   mts1.google.com
-216.58.220.174   mts2.google.com
-216.58.220.174   mts3.google.com
-216.58.220.174   khms0.google.com
-216.58.220.174   khms1.google.com
-216.58.220.174   mt0.google.com
-216.58.220.174   mt1.google.com
-216.58.220.174   mt2.google.com
-216.58.220.174   mt3.google.com
-216.58.220.174   groups.google.com
-216.58.220.174   history.google.com
-216.58.220.174   plus.url.google.com
-216.58.220.174   inbox.google.com
-216.58.220.174   sites.google.com
-216.58.220.174   tools.google.com
-216.58.220.174   google.com
-216.58.220.174   www.google.com
-216.58.220.174   plus.google.com
-216.58.220.174   talkgadget.google.com
-216.58.220.174   books.google.com.hk
+182.239.95.98   keep.google.com
+182.239.95.98   myaccount.google.com
+182.239.95.98   security.google.com
+182.239.95.98   mw1.google.com
+182.239.95.98   mw2.google.com
+182.239.95.98   auth.keyhole.com
+182.239.95.98   cache.pack.google.com
+182.239.95.98   earth.google.com
+182.239.95.98   geoauth.google.com
+182.239.95.98   www.google-analytics.com
+182.239.95.98   calendar.google.com
+182.239.95.98   translate.google.com
+182.239.95.98   support.google.com
+182.239.95.98   books.google.com
+182.239.95.98   books.google.com.hk
+182.239.95.98   news.google.com
+182.239.95.98   play.google.com
+182.239.95.98   encrypted.google.com
+182.239.95.98   apis.google.com
+182.239.95.98   chrome.google.com
+182.239.95.98   maps.google.com
+182.239.95.98   clients1.google.com
+182.239.95.98   clients2.google.com
+182.239.95.98   clients3.google.com
+182.239.95.98   clients4.google.com
+182.239.95.98   clients5.google.com
+182.239.95.98   clients6.google.com
+182.239.95.98   appengine.google.com
+182.239.95.98   docs.google.com
+182.239.95.98   video.google.com
+182.239.95.98   dl.google.com
+182.239.95.98   code.google.com
+182.239.95.98   gg.google.com
+182.239.95.98   mapsengine.google.com
+182.239.95.98   safebrowsing.google.com
+182.239.95.98   alt2-safebrowsing.google.com
+182.239.95.98   wallet.google.com
+182.239.95.98   developers.google.com
+182.239.95.98   drive.google.com
+182.239.95.98   mts0.google.com
+182.239.95.98   mts1.google.com
+182.239.95.98   mts2.google.com
+182.239.95.98   mts3.google.com
+182.239.95.98   khms0.google.com
+182.239.95.98   khms1.google.com
+182.239.95.98   mt0.google.com
+182.239.95.98   mt1.google.com
+182.239.95.98   mt2.google.com
+182.239.95.98   mt3.google.com
+182.239.95.98   plus.url.google.com
+182.239.95.98   inbox.google.com
+182.239.95.98   sites.google.com
+182.239.95.98   tools.google.com
+182.239.95.98   google.com
+182.239.95.98   plus.google.com
+182.239.95.98   talkgadget.google.com
+182.239.95.98   goo.gl
+182.239.95.98   maps-api-ssl.google.com
 #*.google.com
-216.58.220.174   encrypted-tbn0.gstatic.com
-216.58.220.174   encrypted-tbn1.gstatic.com
-216.58.220.174   encrypted-tbn2.gstatic.com
-216.58.220.174   encrypted-tbn3.gstatic.com
+182.239.95.98   encrypted-tbn0.gstatic.com
+182.239.95.98   encrypted-tbn1.gstatic.com
+182.239.95.98   encrypted-tbn2.gstatic.com
+182.239.95.98   encrypted-tbn3.gstatic.com
+#Youtube
+182.239.95.98   youtu.be
+182.239.95.98   m.youtube.com
+182.239.95.98   s.youtube.com
+182.239.95.98   www.youtube.com
+182.239.95.98   accounts.youtube.com
+182.239.95.98   s.ytimg.com
+182.239.95.98   i1.ytimg.com
+182.239.95.98   i.ytimg.com
+182.239.95.98   redirector.googlevideo.com
 #.googleapis.com
-216.58.220.174   mt0.googleapis.com
-216.58.220.174   mt1.googleapis.com
-216.58.220.174   mt2.googleapis.com
-216.58.220.174   mt3.googleapis.com
+182.239.95.98   mt0.googleapis.com
+182.239.95.98   mt1.googleapis.com
+182.239.95.98   mt2.googleapis.com
+182.239.95.98   mt3.googleapis.com
 #Picasa
-216.58.220.174   updates.picasasoftware.com
-216.58.220.174   picasaweb.google.com
+182.239.95.98   updates.picasasoftware.com
+182.239.95.98   picasaweb.google.com
 #Books
-216.58.220.174   bks0.books.google.com
-216.58.220.174   bks1.books.google.com
-216.58.220.174   bks2.books.google.com
-216.58.220.174   bks3.books.google.com
-216.58.220.174   bks4.books.google.com
-216.58.220.174   bks5.books.google.com
-216.58.220.174   bks6.books.google.com
-216.58.220.174   bks7.books.google.com
-216.58.220.174   bks8.books.google.com
-216.58.220.174   bks9.books.google.com
+182.239.95.98   bks0.books.google.com
+182.239.95.98   bks1.books.google.com
+182.239.95.98   bks2.books.google.com
+182.239.95.98   bks3.books.google.com
+182.239.95.98   bks4.books.google.com
+182.239.95.98   bks5.books.google.com
+182.239.95.98   bks6.books.google.com
+182.239.95.98   bks7.books.google.com
+182.239.95.98   bks8.books.google.com
+182.239.95.98   bks9.books.google.com
+#offical
+182.239.95.98   android.clients.google.com
+182.239.95.98   groups.google.com
+182.239.95.98   history.google.com
 #.googoleusercontent.com
-216.58.220.161   lh0.googleusercontent.com
-216.58.220.161   lh1.googleusercontent.com
-216.58.220.161   lh2.googleusercontent.com
-216.58.220.161   lh3.googleusercontent.com
-216.58.220.161   lh4.googleusercontent.com
-216.58.220.161   lh5.googleusercontent.com
-216.58.220.161   lh6.googleusercontent.com
-216.58.220.161   mail-attachment.googleusercontent.com
-216.58.220.161   oauth.googleusercontent.com
-216.58.220.161   themes.googleusercontent.com
-216.58.220.161   1-ps.googleusercontent.com
-216.58.220.161   s2.googleusercontent.com
-216.58.220.161   clients2.googleusercontent.com
-216.58.220.161   images1-esmobile-opensocial.googleusercontent.com
-216.58.220.161   images2-esmobile-opensocial.googleusercontent.com
-216.58.220.161   images3-esmobile-opensocial.googleusercontent.com
-216.58.220.161   images1-hangout-opensocial.googleusercontent.com
-216.58.220.161   images2-hangout-opensocial.googleusercontent.com
-216.58.220.161   images3-hangout-opensocial.googleusercontent.com
-216.58.220.161   images-pos-opensocial.googleusercontent.com
-216.58.220.161   images-oz-opensocial.googleusercontent.com
-216.58.220.161   producer.googleusercontent.com
-216.58.220.161   webcache.googleusercontent.com
+182.239.95.98   lh0.googleusercontent.com
+182.239.95.98   lh1.googleusercontent.com
+182.239.95.98   lh2.googleusercontent.com
+182.239.95.98   lh3.googleusercontent.com
+182.239.95.98   lh4.googleusercontent.com
+182.239.95.98   lh5.googleusercontent.com
+182.239.95.98   lh6.googleusercontent.com
+182.239.95.98   mail-attachment.googleusercontent.com
+182.239.95.98   oauth.googleusercontent.com
+182.239.95.98   themes.googleusercontent.com
+182.239.95.98   1-ps.googleusercontent.com
+182.239.95.98   s2.googleusercontent.com
+182.239.95.98   clients2.googleusercontent.com
+182.239.95.98   images1-esmobile-opensocial.googleusercontent.com
+182.239.95.98   images2-esmobile-opensocial.googleusercontent.com
+182.239.95.98   images3-esmobile-opensocial.googleusercontent.com
+182.239.95.98   images1-hangout-opensocial.googleusercontent.com
+182.239.95.98   images2-hangout-opensocial.googleusercontent.com
+182.239.95.98   images3-hangout-opensocial.googleusercontent.com
+182.239.95.98   images-pos-opensocial.googleusercontent.com
+182.239.95.98   images-oz-opensocial.googleusercontent.com
+182.239.95.98   producer.googleusercontent.com
+182.239.95.98   webcache.googleusercontent.com
+182.239.95.98   images-lso-opensocial.googleusercontent.com
 
-216.58.220.161   picasa-readme.blogspot.com
-216.58.220.161   googledrive.com
+182.239.95.98   picasa-readme.blogspot.com
+182.239.95.98   googledrive.com
 
-216.58.220.161   commondatastorage.googleapis.com
-216.58.220.161   storage.googleapis.com
+182.239.95.98   commondatastorage.googleapis.com
+182.239.95.98   storage.googleapis.com
 
-216.58.220.161   geo0.ggpht.com
-216.58.220.161   geo1.ggpht.com
-216.58.220.161   geo2.ggpht.com
-216.58.220.161   geo3.ggpht.com
-216.58.220.161   yt3.ggpht.com
-#google.com
-216.58.220.163   accounts.google.cn
-216.58.220.163   id.google.cn
+182.239.95.98   geo0.ggpht.com
+182.239.95.98   geo1.ggpht.com
+182.239.95.98   geo2.ggpht.com
+182.239.95.98   geo3.ggpht.com
+182.239.95.98   yt3.ggpht.com
+#*.g.doubleclick.net
+182.239.95.98   pagead2.googlesyndication.com
+182.239.95.98   googleads.g.doubleclick.net
+#google.com 
+182.239.95.98   accounts.google.cn
+182.239.95.98   id.google.cn
 
-216.58.220.163   accounts.google.com.hk
-216.58.220.163   www.google.com.hk
-216.58.220.163   news.google.com.hk
-216.58.220.163   id.google.com.hk
+182.239.95.98   accounts.google.com.hk
+182.239.95.98   www.google.com.hk
+182.239.95.98   news.google.com.hk
+182.239.95.98   id.google.com.hk
+182.239.95.98   translate.google.com.hk
 
-216.58.220.163   fonts.gstatic.com
-216.58.220.163   www.gstatic.com
-216.58.220.163   maps.gstatic.com
-216.58.220.163   ssl.gstatic.com
-216.58.220.163   accounts.gstatic.com
-
-216.58.220.163   goo.gl
-216.58.220.163   redirector.googlevideo.com
-#www.google.com
-216.58.220.164  t0.gstatic.com
-216.58.220.164  t1.gstatic.com
-216.58.220.164  t2.gstatic.com
-216.58.220.164  t3.gstatic.com
-216.58.220.164  manifest.googlevideo.com
-216.58.220.164  scholar.google.com
-216.58.220.164  google-analytics.com
+182.239.95.98   id.google.com
+182.239.95.98   fonts.gstatic.com
+182.239.95.98   www.gstatic.com
+182.239.95.98   maps.gstatic.com
+182.239.95.98   ssl.gstatic.com
+182.239.95.98   accounts.gstatic.com
+182.239.95.98   csi.gstatic.com
+#www.google.com 
+182.239.95.98   www.google.com
+182.239.95.98   t0.gstatic.com
+182.239.95.98   t1.gstatic.com
+182.239.95.98   t2.gstatic.com
+182.239.95.98   t3.gstatic.com
+182.239.95.98   manifest.googlevideo.com
+182.239.95.98   scholar.google.com
+182.239.95.98   google-analytics.com
 #Gmail
-202.152.192.181 mail.google.com
-202.152.192.181 www.gmail.com
-202.152.192.181 gmail.com
-74.125.207.109  gmail-pop.l.google.com
-74.125.69.16    pop.googlemail.com
-74.125.69.16    googlemail-pop.l.google.com
-74.125.69.109   smtp.gmail.com
-74.125.69.109   gmail-smtp-msa.l.google.com
-173.194.65.109  gmail-smtp.l.google.com
-74.125.201.27   gmail-smtp-in.l.google.com
-74.125.201.14   gmr-smtp-in.l.google.com
-74.125.69.16    smtp.googlemail.com
-74.125.69.16    googlemail-smtp.l.google.com
-74.125.193.109  imap.gmail.com
-74.125.193.108  gmail-imap.l.google.com
-74.125.69.16    imap.googlemail.com
-74.125.69.16    googlemail-imap.l.google.com
-74.125.193.108  pop.gmail.com
-
+182.239.95.98   mail.google.com
+182.239.95.98   www.gmail.com
+182.239.95.98   gmail.com
+#*.doubleclick.net
+182.239.95.98   ad.doubleclick.net
+#*.google-analytics.com
+182.239.95.98   ssl.google-analytics.com
 #Blogger
-216.58.219.105  www.blogger.com
-#accounts
-216.58.220.205  accounts.google.com
-#googlecode
-64.233.185.82 autoproxy-gfwlist.googlecode.com
+182.239.95.98   www.blogger.com
 #googleapis.l.google.com
-216.58.220.202   www.googleapis.com
-216.58.220.202   fonts.googleapis.com
-216.58.220.202   translate.googleapis.com
-216.58.220.202   play.googleapis.com
-216.58.220.202   android.googleapis.com
-216.58.220.202   ajax.googleapis.com
-216.58.220.202   mts0.googleapis.com
-216.58.220.202   mts1.googleapis.com
-216.58.220.202   mts2.googleapis.com
-216.58.220.202   mts3.googleapis.com
-216.58.220.202   maps.googleapis.com
-216.58.220.202   content.googleapis.com
+182.239.95.98   www.googleapis.com
+182.239.95.98   fonts.googleapis.com
+182.239.95.98   translate.googleapis.com
+182.239.95.98   play.googleapis.com
+182.239.95.98   android.googleapis.com
+182.239.95.98   ajax.googleapis.com
+182.239.95.98   mts0.googleapis.com
+182.239.95.98   mts1.googleapis.com
+182.239.95.98   mts2.googleapis.com
+182.239.95.98   mts3.googleapis.com
+182.239.95.98   maps.googleapis.com
+182.239.95.98   mts.googleapis.com
+182.239.95.98   content.googleapis.com
+#googlezip
+182.239.95.98   proxy.googlezip.net
+182.239.95.98   compress.googlezip.net
+
+182.239.95.98   check.googlezip.net
+#accounts
+182.239.95.98   accounts.google.com
+# 82    Googlecode
+182.239.95.98   autoproxy-gfwlist.googlecode.com
 # 115   checkout
-64.233.185.115  checkout.google.com
+182.239.95.98   checkout.google.com
 #upload
-64.233.185.117  upload.docs.google.com
-#Others
-64.233.185.121  api2.cmxlog.com
-# 125Talk
-64.233.185.125  talk.google.com
-#133photos-ugc-lopri.l.googleusercontent.com
-74.125.196.133  sp1.googleusercontent.com
-74.125.196.133  sp2.googleusercontent.com
-74.125.196.133  sp3.googleusercontent.com
-# 188mTalk
-64.233.185.188  mtalk.google.com
+182.239.95.98   upload.docs.google.com
+#133    photos-ugc-lopri.l.googleusercontent.com
+182.239.95.98   sp1.googleusercontent.com
+182.239.95.98   sp2.googleusercontent.com
+182.239.95.98   sp3.googleusercontent.com
 #Drive
-173.194.116.189 0.drive.google.com
-173.194.116.189 1.drive.google.com
-173.194.116.189 2.drive.google.com
-173.194.116.189 0.docs.google.com
-173.194.116.189 1.docs.google.com
-173.194.116.189 2.docs.google.com
-173.194.116.189 chromoting-client.talkgadget.google.com
-#1890.client-channel
-173.194.116.189 0.client-channel.google.com
-173.194.116.189 1.client-channel.google.com
-173.194.116.189 2.client-channel.google.com
-173.194.116.189 3.client-channel.google.com
-173.194.116.189 4.client-channel.google.com
-173.194.116.189 5.client-channel.google.com
-173.194.116.189 6.client-channel.google.com
-#CN IP
-203.208.49.183  csi.gstatic.com
-
-203.208.49.186  pagead2.googlesyndication.com
-203.208.49.186  googleads.g.doubleclick.net
-203.208.49.187  ad.doubleclick.net
-
-203.208.49.190  ssl.google-analytics.com
+182.239.95.98   0.drive.google.com
+182.239.95.98   1.drive.google.com
+182.239.95.98   2.drive.google.com
+182.239.95.98   0.docs.google.com
+182.239.95.98   1.docs.google.com
+182.239.95.98   2.docs.google.com
+182.239.95.98   chromoting-client.talkgadget.google.com
+#189    0.client-channel
+182.239.95.98   0.client-channel.google.com
+182.239.95.98   1.client-channel.google.com
+182.239.95.98   2.client-channel.google.com
+182.239.95.98   3.client-channel.google.com
+182.239.95.98   4.client-channel.google.com
+182.239.95.98   5.client-channel.google.com
+182.239.95.98   6.client-channel.google.com
+182.239.95.98   7.client-channel.google.com
+182.239.95.98   8.client-channel.google.com
+182.239.95.98   9.client-channel.google.com
+182.239.95.98   10.client-channel.google.com
+182.239.95.98   11.client-channel.google.com
+182.239.95.98   12.client-channel.google.com
+# 192   GPS
+64.233.189.192  supl.google.com
+# 125   Talk
+74.125.20.125   talk.google.com
+# 188   mTalk
+74.125.25.188   mtalk.google.com
+#Others
+64.233.191.121  api2.cmxlog.com
+64.233.191.121  www.android-x86.org
